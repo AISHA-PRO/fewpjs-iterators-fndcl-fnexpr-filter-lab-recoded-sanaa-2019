@@ -6,6 +6,6 @@ function findMatching(drivers, str){
    return newDriver;
 }
 
-function fuzzyMatch (){
+function fuzzyMatch (drivers, str){
   
 }
